@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
 import Authenticate from "./Authenticate.jsx";
 import SignUpForm from "./SignUpForm.jsx";
 
